@@ -1,5 +1,7 @@
 #pragma once
 
+
+// preparing macros for dll export and import
 #ifdef RN_PLATFORM_WINDOWS
 	#ifdef RN_BUILD_DLL
 		#define RION_API __declspec(dllexport)

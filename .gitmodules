@@ -1,0 +1,3 @@
+[submodule "Rion/vendor/spdlog"]
+	path = Rion/vendor/spdlog
+	url = https://github.com/gabime/spdlog

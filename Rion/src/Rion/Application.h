@@ -16,7 +16,7 @@ namespace Rion {
 
 	};
 
-	//tobe defined by client
+	//to be defined by client
 	Application* CreateApplication();
 
 }
